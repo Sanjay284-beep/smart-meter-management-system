@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-This project streamlines smart meter operations for **Prithivi Pratap Buildcon**, addressing real-world challenges in managing 1000+ smart meters across 6 cities, real-time monitoring of 11KV/33KV substations, automated client billing and reporting, and multi-location data synchronization.
+This project streamlines smart meter operations for utility companies, addressing real-world challenges in managing 1000+ smart meters across multiple cities, real-time monitoring of 11KV/33KV substations, automated client billing and reporting, and multi-location data synchronization.
 
 ### Solution
 Integrated system combining ASP.NET Core for high-performance API operations, PHP for client-facing portal and report generation, and SQL Server for reliable data management.
